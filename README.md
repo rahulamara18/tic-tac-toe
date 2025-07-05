@@ -1,3 +1,3 @@
 # tic-tac-toe
 View live at link:
-https://github.com/rahulamara18/tic-tac-toe.git
+https://rahulamara18.github.io/tic-tac-toe/
